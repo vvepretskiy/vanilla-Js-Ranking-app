@@ -1,7 +1,6 @@
 // var element = document.getElementsByClassName('plus')[0];
 
 // element.style.color = 'red';
-var element = '';
 function myFunction(star) {
     console.log(star)
 
